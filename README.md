@@ -8,7 +8,7 @@ The page automatically updates with new words after each sentences is completed.
 
 ## MVP User Stories
 
- ```As a child, 
+    As a child, 
     so I can complete a sentence,  
     I can click and select a word. 
 
@@ -22,5 +22,5 @@ The page automatically updates with new words after each sentences is completed.
 
     As a child, 
     So that I can display an understanding of the story, 
-    I can draw a picture underneath.``` 
+    I can draw a picture underneath.
 
