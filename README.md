@@ -1,5 +1,5 @@
-##Story-teller
-#A creative and fun way to help children develop their reading skills.
+#Story-teller
+###A creative and fun way to help children develop their reading skills.
 
 ##Description
 
